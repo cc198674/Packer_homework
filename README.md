@@ -1,0 +1,1 @@
+run packer build aws_ami_ubuntu.json
